@@ -1,0 +1,122 @@
+{
+  "result": [
+    {
+      "icaoCode": "KABQ",
+      "iataCode": "ABQ",
+      "airportName": "ALBUQUERQUE INTL SUNSPORT",
+      "inUS": true,
+      "contractStartDate": "2018-07-01",
+      "contractEndDate": "2019-06-30",
+      "stateOrCountryFilter": "US Locations",
+      "locationInfo": "ALBUQUERQUE, NM",
+      "contractCount": 1,
+      "referenceNumber": 74791529,
+      "contractNumber": "WFS-61321-59",
+      "fuelingType": "INTO WING",
+      "deliveryMethod": "TRUCK",
+      "fuelItemKey": "JETA",
+      "feeRows": [
+        {
+          "desc": "INTOPLANE FEE",
+          "fee_rate_baiss": "flat",
+          "price": 0,
+          "display_price": "$0 per flight",
+          "currency": "USD",
+          "uom": "USG",
+          "percentage_tax_applicable": "yes/no",
+          "percentage_applicable_fields": "",
+          "line_index": 1,
+          "scale_minimum fee": "",
+          "range": null
+        },
+        {
+          "desc": "INTOPLANE FEE",
+          "fee_rate_baiss": "list",
+          "price": 0.15,
+          "display_price": "0.15",
+          "currency": "USD",
+          "uom": "USG",
+          "percentage_tax_applicable": "yes/no",
+          "line_index": 2,
+          "scale_minimum fee": "",
+          "range": null,
+          "percentage_applicable_fields": "list of fields - string"
+        },
+        {
+          "desc": "INTOPLANE FEE",
+          "fee_rate_baiss": "scale",
+          "price": 0,
+          "display_price": "$0",
+          "currency": "USD",
+          "uom": "USG",
+          "percentage_tax_applicable": "yes/no",
+          "percentage_applicable_fields": "",
+          "line_index": 3,
+          "range": [
+            {
+              "0-300": 20,
+              "line_index": 1
+            },
+            {
+              "300-500": 402,
+              "line_index": 2
+            }
+          ],
+          "scale_minimum fee": 10
+        },
+        {
+          "desc": "INTOPLANE FEE",
+          "fee_rate_baiss": "unit",
+          "price": 0,
+          "display_price": "$0 per uom",
+          "currency": "USD",
+          "uom": "USG",
+          "percentage_tax_applicable": "yes/no",
+          "percentage_applicable_fields": "",
+          "line_index": 4,
+          "scale_minimum fee": "",
+          "range": null
+        }
+      ],
+      "taxRows": [
+        {
+          "desc": "GRT – STATE GROSS RECEIPTS TAX-813",
+          "price": 0.02306,
+          "currency": "USD",
+          "uom": "USG",
+          "tax_type": "sales_tax",
+          "display_price": "2.3%",
+          "line_index": 1
+        },
+        {
+          "desc": "GRT – STATE GROSS RECEIPTS TAX-813",
+          "price": 0.02306,
+          "currency": "USD",
+          "uom": "USG",
+          "tax_type": "sales_tax",
+          "display_price": "0.02306 per uom",
+          "line_index": 2
+        }
+      ],
+      "customersNumber": 55206,
+      "CustomerName": "JETBLUE AIRWAYS CORPORATION",
+      "supplierName": "AVFUEL CORP",
+      "ipAgentName": "SWISSPORT-A",
+      "tenderStatus": "NEW",
+      "contract_type_domestic-international": "international",
+      "fuel_billingCurrency": "USD",
+      "fuel_billingUOM": "USG",
+      "fuelrow": {
+        "priceBasis": "GrpJOpisMidWkly",
+        "desc": "JET FUEL ",
+        "diff": 0.00554
+      },
+      "comments": {
+        "comment": "string value for comments"
+      }
+    }
+  ],
+  "query": "referenceNumbers=[74791529] & contractDate=ANY",
+  "errors": null,
+  "resultCode": 500
+}
