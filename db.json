@@ -1,31 +1,3586 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
+    "result": [
+        {
+            "icaoCode": "KABQ",
+            "iataCode": "ABQ",
+            "airportName": "ALBUQUERQUE INTL SUNSPORT",
+            "locationInfo": "ALBUQUERQUE, NM",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791529
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AVFUEL CORP"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KABQ/ABQ",
+            "supplierNames": [
+                "AVFUEL CORP"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KACK",
+            "iataCode": "ACK",
+            "airportName": "NANTUCKET MEMORIAL",
+            "locationInfo": "NANTUCKET, MA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74785844
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "NANTUCKET MEMORIAL AIRPORT"
+            ],
+            "ipAgents": [
+                "NANTUCKET MEMORIAL AIRPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KACK/ACK",
+            "supplierNames": [
+                "NANTUCKET MEMORIAL AIRPORT"
+            ],
+            "ipAgentNames": [
+                "NANTUCKET MEMORIAL AIRPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KALB",
+            "iataCode": "ALB",
+            "airportName": "ALBANY INTL",
+            "locationInfo": "ALBANY, NY",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74789131
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "ASSOCIATED ENERGY GROUP LLC"
+            ],
+            "ipAgents": [
+                "MILLION AIR-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KALB/ALB",
+            "supplierNames": [
+                "ASSOCIATED ENERGY GROUP LLC"
+            ],
+            "ipAgentNames": [
+                "MILLION AIR-A"
+            ]
+        },
+        {
+            "icaoCode": "PANC",
+            "iataCode": "ANC",
+            "airportName": "TED STEVENS ANCHORAGE INTL",
+            "locationInfo": "ANCHORAGE, AK",
+            "inUS": true,
+            "contractStartDate": "2019-01-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74792795
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "TESORO ALASKA COMPANY LLC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "PANC/ANC",
+            "supplierNames": [
+                "TESORO ALASKA COMPANY LLC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "TAPA",
+            "iataCode": "ANU",
+            "airportName": "ANTIGUA/BIRD INT",
+            "locationInfo": "Antigua and Barbuda",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788510
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgents": [
+                "RUBIS-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TAPA/ANU",
+            "supplierNames": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgentNames": [
+                "RUBIS-A"
+            ]
+        },
+        {
+            "icaoCode": "KATL",
+            "iataCode": "ATL",
+            "airportName": "HARTSFIELD-JACKSON ATLANTA INTL",
+            "locationInfo": "ATLANTA, GA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74790913,
+                74790958
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgents": [
+                "ASIG - INTL TERMINAL-A",
+                "ASIG - TERMINAL-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KATL/ATL",
+            "supplierNames": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgentNames": [
+                "ASIG - INTL TERMINAL-A",
+                "ASIG - TERMINAL-A"
+            ]
+        },
+        {
+            "icaoCode": "TNCA",
+            "iataCode": "AUA",
+            "airportName": "ARUBA ORANJESTAD",
+            "locationInfo": "Aruba",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788362
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "FUELS MARKETING & SUPPLY ARUBA"
+            ],
+            "ipAgents": [
+                "FUELS MARKETING & SUPPLY ARUBA-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TNCA/AUA",
+            "supplierNames": [
+                "FUELS MARKETING & SUPPLY ARUBA"
+            ],
+            "ipAgentNames": [
+                "FUELS MARKETING & SUPPLY ARUBA-A"
+            ]
+        },
+        {
+            "icaoCode": "KAUS",
+            "iataCode": "AUS",
+            "airportName": "AUSTIN-BERGSTROM INTL",
+            "locationInfo": "AUSTIN, TX",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74789201
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "ASSOCIATED ENERGY GROUP LLC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KAUS/AUS",
+            "supplierNames": [
+                "ASSOCIATED ENERGY GROUP LLC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "TXKF",
+            "iataCode": "BDA",
+            "airportName": "BERMUDA",
+            "locationInfo": "Bermuda",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788567
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "SOL AVIATION SERVICES LTD"
+            ],
+            "ipAgents": [
+                "SOL AVIATION SERVICES LTD-SOUTH-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TXKF/BDA",
+            "supplierNames": [
+                "SOL AVIATION SERVICES LTD"
+            ],
+            "ipAgentNames": [
+                "SOL AVIATION SERVICES LTD-SOUTH-A"
+            ]
+        },
+        {
+            "icaoCode": "KBDL",
+            "iataCode": "BDL",
+            "airportName": "BRADLEY INTERNATIONAL",
+            "locationInfo": "WINDSOR LOCKS, CT",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74790682,
+                74790717,
+                74790749
+            ],
+            "contractCount": 3,
+            "suppliers": [
+                "JETBLUE AIRWAYS",
+                "SHELL OIL PRODUCTS"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KBDL/BDL",
+            "supplierNames": [
+                "JETBLUE AIRWAYS",
+                "SHELL OIL PRODUCTS"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "TBPB",
+            "iataCode": "BGI",
+            "airportName": "BARBADOS-ADAMS",
+            "locationInfo": "Barbados",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74792024,
+                74792044
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "RUBIS WEST INDIES LTD",
+                "SOL AVIATION SERVICES LTD"
+            ],
+            "ipAgents": [
+                "SOL AVIATION SERVICES LTD-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TBPB/BGI",
+            "supplierNames": [
+                "RUBIS WEST INDIES LTD",
+                "SOL AVIATION SERVICES LTD"
+            ],
+            "ipAgentNames": [
+                "SOL AVIATION SERVICES LTD-A"
+            ]
+        },
+        {
+            "icaoCode": "KBNA",
+            "iataCode": "BNA",
+            "airportName": "NASHVILLE INTL",
+            "locationInfo": "NASHVILLE, TN",
+            "inUS": true,
+            "contractStartDate": "2018-12-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74792493
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "BP PRODUCTS NORTH AMERICA INC(BP OIL CO)"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KBNA/BNA",
+            "supplierNames": [
+                "BP PRODUCTS NORTH AMERICA INC(BP OIL CO)"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KBOS",
+            "iataCode": "BOS",
+            "airportName": "GEN EDWARD LAWRENCE LOGAN INTL",
+            "locationInfo": "BOSTON, MA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74790416,
+                74790462,
+                74790505,
+                74790559,
+                74792122,
+                74792148,
+                74792520,
+                74792542
+            ],
+            "contractCount": 8,
+            "suppliers": [
+                "IRVING OIL TERMINALS INC",
+                "JETBLUE AIRWAYS",
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A",
+                "SWISSPORT-PIPELINE-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KBOS/BOS",
+            "supplierNames": [
+                "IRVING OIL TERMINALS INC",
+                "JETBLUE AIRWAYS",
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A",
+                "SWISSPORT-PIPELINE-A"
+            ]
+        },
+        {
+            "icaoCode": "TJBQ",
+            "iataCode": "BQN",
+            "airportName": "AGUADILLA",
+            "locationInfo": "Puerto Rico",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74789436
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AIR TOTAL INTERNATIONAL"
+            ],
+            "ipAgents": [
+                "COPECA INC-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TJBQ/BQN",
+            "supplierNames": [
+                "AIR TOTAL INTERNATIONAL"
+            ],
+            "ipAgentNames": [
+                "COPECA INC-A"
+            ]
+        },
+        {
+            "icaoCode": "KBTV",
+            "iataCode": "BTV",
+            "airportName": "BURLINGTON",
+            "locationInfo": "BURLINGTON, VT",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74785933
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "HERITAGE AVIATION-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KBTV/BTV",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "HERITAGE AVIATION-A"
+            ]
+        },
+        {
+            "icaoCode": "KBUF",
+            "iataCode": "BUF",
+            "airportName": "BUFFALO NIAGARA INTL",
+            "locationInfo": "BUFFALO, NY",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791851,
+                74792682
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "JETBLUE AIRWAYS",
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "PRIOR AVIATION-TERMINAL-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KBUF/BUF",
+            "supplierNames": [
+                "JETBLUE AIRWAYS",
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "PRIOR AVIATION-TERMINAL-A"
+            ]
+        },
+        {
+            "icaoCode": "KBUR",
+            "iataCode": "BUR",
+            "airportName": "BOB HOPE",
+            "locationInfo": "BURBANK, CA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74786038,
+                74792000
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "MILLION AIR @ TERMINAL-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KBUR/BUR",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "MILLION AIR @ TERMINAL-A"
+            ]
+        },
+        {
+            "icaoCode": "KBWI",
+            "iataCode": "BWI",
+            "airportName": "BALTIMORE/WASH INTL THURGOOD MARSHALL",
+            "locationInfo": "BALTIMORE, MD",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791013
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KBWI/BWI",
+            "supplierNames": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KBZN",
+            "iataCode": "BZN",
+            "airportName": "GALLATIN FIELD",
+            "locationInfo": "BOZEMAN, MT",
+            "inUS": true,
+            "contractStartDate": "2018-12-13",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74792452
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "YELLOWSTONE JET CENTER-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KBZN/BZN",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "YELLOWSTONE JET CENTER-A"
+            ]
+        },
+        {
+            "icaoCode": "KCHS",
+            "iataCode": "CHS",
+            "airportName": "CHARLESTON AFB/INTL",
+            "locationInfo": "CHARLESTON, SC",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74786172
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "ALLIED AVIATION SERVICES-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KCHS/CHS",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "ALLIED AVIATION SERVICES-A"
+            ]
+        },
+        {
+            "icaoCode": "KCLE",
+            "iataCode": "CLE",
+            "airportName": "CLEVELAND-HOPKINS INTL",
+            "locationInfo": "CLEVELAND, OH",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791475
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "BP PRODUCTS NORTH AMERICA INC(BP OIL CO)"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KCLE/CLE",
+            "supplierNames": [
+                "BP PRODUCTS NORTH AMERICA INC(BP OIL CO)"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KCLT",
+            "iataCode": "CLT",
+            "airportName": "CHARLOTTE-DOUGLAS INTL",
+            "locationInfo": "CHARLOTTE, NC",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74786276
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KCLT/CLT",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "MUCM",
+            "iataCode": "CMW",
+            "airportName": "CAMAGUEY",
+            "locationInfo": "Cuba",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74786339
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "ECASA"
+            ],
+            "ipAgents": [
+                "ECASA-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MUCM/CMW",
+            "supplierNames": [
+                "ECASA"
+            ],
+            "ipAgentNames": [
+                "ECASA-A"
+            ]
+        },
+        {
+            "icaoCode": "MMUN",
+            "iataCode": "CUN",
+            "airportName": "CANCUN",
+            "locationInfo": "Mexico",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788946,
+                74792559
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "AEROPUERTOS Y SERVICIOS AUXILIARES DBA ASA"
+            ],
+            "ipAgents": [
+                "ASA-WFSMEX (HYDRANT)-A",
+                "ASA-WFSMEX (TRUCK)-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MMUN/CUN",
+            "supplierNames": [
+                "AEROPUERTOS Y SERVICIOS AUXILIARES DBA ASA"
+            ],
+            "ipAgentNames": [
+                "ASA-WFSMEX (HYDRANT)-A",
+                "ASA-WFSMEX (TRUCK)-A"
+            ]
+        },
+        {
+            "icaoCode": "TNCC",
+            "iataCode": "CUR",
+            "airportName": "CURACAO",
+            "locationInfo": "Curacao",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788327
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "CUROIL NV"
+            ],
+            "ipAgents": [
+                "CUROIL-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TNCC/CUR",
+            "supplierNames": [
+                "CUROIL NV"
+            ],
+            "ipAgentNames": [
+                "CUROIL-A"
+            ]
+        },
+        {
+            "icaoCode": "KDAB",
+            "iataCode": "DAB",
+            "airportName": "DAYTONA BEACH INTERNATIONAL",
+            "locationInfo": "DAYTONA BEACH, FL",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791566
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AVFUEL CORP"
+            ],
+            "ipAgents": [
+                "SHELTAIR JET CENTER-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KDAB/DAB",
+            "supplierNames": [
+                "AVFUEL CORP"
+            ],
+            "ipAgentNames": [
+                "SHELTAIR JET CENTER-A"
+            ]
+        },
+        {
+            "icaoCode": "KDCA",
+            "iataCode": "DCA",
+            "airportName": "RONALD REAGAN WASHINGTON NATNL",
+            "locationInfo": "WASHINGTON D.C., DC",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791741,
+                74791770,
+                74791805
+            ],
+            "contractCount": 3,
+            "suppliers": [
+                "CASTLETON COMMODITIES INTERNATIONAL LLC DBA CASTLETON COMMODITIES MERCHANT TRADING LP",
+                "JETBLUE AIRWAYS"
+            ],
+            "ipAgents": [
+                "ALLIED AVIATION SERVICES-A",
+                "ALLIED AVIATION SERVICES-PIPELINE-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KDCA/DCA",
+            "supplierNames": [
+                "CASTLETON COMMODITIES INTERNATIONAL LLC DBA CASTLETON COMMODITIES MERCHANT TRADING LP",
+                "JETBLUE AIRWAYS"
+            ],
+            "ipAgentNames": [
+                "ALLIED AVIATION SERVICES-A",
+                "ALLIED AVIATION SERVICES-PIPELINE-A"
+            ]
+        },
+        {
+            "icaoCode": "KDEN",
+            "iataCode": "DEN",
+            "airportName": "DENVER INTERNATIONAL",
+            "locationInfo": "DENVER, CO",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74789259
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "ASSOCIATED ENERGY GROUP LLC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KDEN/DEN",
+            "supplierNames": [
+                "ASSOCIATED ENERGY GROUP LLC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KDFW",
+            "iataCode": "DFW",
+            "airportName": "DALLAS-FORT WORTH INTL",
+            "locationInfo": "DALLAS, TX",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791061
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgents": [
+                "ALLIED AVIATION SERVICES-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KDFW/DFW",
+            "supplierNames": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgentNames": [
+                "ALLIED AVIATION SERVICES-A"
+            ]
+        },
+        {
+            "icaoCode": "KDTW",
+            "iataCode": "DTW",
+            "airportName": "DETROIT METRO",
+            "locationInfo": "DETROIT, MI",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74790614
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "PBF HOLDING COMPANY LLC"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KDTW/DTW",
+            "supplierNames": [
+                "PBF HOLDING COMPANY LLC"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KEWR",
+            "iataCode": "EWR",
+            "airportName": "NEWARK LIBERTY INTERNATIONAL",
+            "locationInfo": "NEWARK, NJ",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74792214,
+                74792243
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgents": [
+                "ALLIED AVIATION SERVICES-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KEWR/EWR",
+            "supplierNames": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgentNames": [
+                "ALLIED AVIATION SERVICES-A"
+            ]
+        },
+        {
+            "icaoCode": "KFLL",
+            "iataCode": "FLL",
+            "airportName": "FORT LAUDERDALE/HOLLYWOOD INTL",
+            "locationInfo": "FORT LAUDERDALE, FL",
+            "inUS": true,
+            "contractStartDate": "2019-03-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74792710,
+                74792738
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "FSM GROUP-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KFLL/FLL",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "FSM GROUP-A"
+            ]
+        },
+        {
+            "icaoCode": "MWCR",
+            "iataCode": "GCM",
+            "airportName": "GRAND CAYMAN-ROBERTS INTL",
+            "locationInfo": "Cayman Islands",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788775
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgents": [
+                "RUBIS-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MWCR/GCM",
+            "supplierNames": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgentNames": [
+                "RUBIS-A"
+            ]
+        },
+        {
+            "icaoCode": "TGPY",
+            "iataCode": "GND",
+            "airportName": "POINT SALINES",
+            "locationInfo": "Grenada",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74792099
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgents": [
+                "RUBIS-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TGPY/GND",
+            "supplierNames": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgentNames": [
+                "RUBIS-A"
+            ]
+        },
+        {
+            "icaoCode": "MUHA",
+            "iataCode": "HAV",
+            "airportName": "JOSE MARTI INTL",
+            "locationInfo": "Cuba",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74786395
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "ECASA"
+            ],
+            "ipAgents": [
+                "ECASA-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MUHA/HAV",
+            "supplierNames": [
+                "ECASA"
+            ],
+            "ipAgentNames": [
+                "ECASA-A"
+            ]
+        },
+        {
+            "icaoCode": "KHDN",
+            "iataCode": "HDN",
+            "airportName": "YAMPA VALLEY",
+            "locationInfo": "HAYDEN, CO",
+            "inUS": true,
+            "contractStartDate": "2018-12-14",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74792426
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AVFUEL CORP"
+            ],
+            "ipAgents": [
+                "ATLANTIC AVIATION-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KHDN/HDN",
+            "supplierNames": [
+                "AVFUEL CORP"
+            ],
+            "ipAgentNames": [
+                "ATLANTIC AVIATION-A"
+            ]
+        },
+        {
+            "icaoCode": "MUHG",
+            "iataCode": "HOG",
+            "airportName": "FRANK PAIS INTL",
+            "locationInfo": "Cuba",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74786461
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "ECASA"
+            ],
+            "ipAgents": [
+                "ECASA-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MUHG/HOG",
+            "supplierNames": [
+                "ECASA"
+            ],
+            "ipAgentNames": [
+                "ECASA-A"
+            ]
+        },
+        {
+            "icaoCode": "KHOU",
+            "iataCode": "HOU",
+            "airportName": "HOUSTON WILLIAM P HOBBY",
+            "locationInfo": "HOUSTON, TX",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74789323
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "ASSOCIATED ENERGY GROUP LLC"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KHOU/HOU",
+            "supplierNames": [
+                "ASSOCIATED ENERGY GROUP LLC"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KHPN",
+            "iataCode": "HPN",
+            "airportName": "WESTCHESTER COUNTY",
+            "locationInfo": "WHITE PLAINS, NY",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74786568
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "ROSS AVIATION-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KHPN/HPN",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "ROSS AVIATION-A"
+            ]
+        },
+        {
+            "icaoCode": "KIAD",
+            "iataCode": "IAD",
+            "airportName": "WASHINGTON DULLES INTL",
+            "locationInfo": "STERLING, VA",
+            "inUS": true,
+            "contractStartDate": "2018-09-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74792343
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "CASTLETON COMMODITIES INTERNATIONAL LLC DBA CASTLETON COMMODITIES MERCHANT TRADING LP"
+            ],
+            "ipAgents": [
+                "SWISSPORT-MEMBER-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KIAD/IAD",
+            "supplierNames": [
+                "CASTLETON COMMODITIES INTERNATIONAL LLC DBA CASTLETON COMMODITIES MERCHANT TRADING LP"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-MEMBER-A"
+            ]
+        },
+        {
+            "icaoCode": "KJAX",
+            "iataCode": "JAX",
+            "airportName": "JACKSONVILLE INTERNATIONAL",
+            "locationInfo": "JACKSONVILLE, FL",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791214
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "VITOL INC"
+            ],
+            "ipAgents": [
+                "SIGNATURE FLIGHT SUPPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KJAX/JAX",
+            "supplierNames": [
+                "VITOL INC"
+            ],
+            "ipAgentNames": [
+                "SIGNATURE FLIGHT SUPPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KJFK",
+            "iataCode": "JFK",
+            "airportName": "JOHN F KENNEDY INTERNATIONAL",
+            "locationInfo": "NEW YORK, NY",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74786662,
+                74791892,
+                74791926
+            ],
+            "contractCount": 3,
+            "suppliers": [
+                "JETBLUE AIRWAYS",
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "ALLIED AVIATION SERVICES-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KJFK/JFK",
+            "supplierNames": [
+                "JETBLUE AIRWAYS",
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "ALLIED AVIATION SERVICES-A"
+            ]
+        },
+        {
+            "icaoCode": "MKJP",
+            "iataCode": "KIN",
+            "airportName": "KINGSTON",
+            "locationInfo": "Jamaica",
+            "inUS": false,
+            "contractStartDate": "2019-01-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74792622
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AIR TOTAL INTERNATIONAL"
+            ],
+            "ipAgents": [
+                "AIR TOTAL-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MKJP/KIN",
+            "supplierNames": [
+                "AIR TOTAL INTERNATIONAL"
+            ],
+            "ipAgentNames": [
+                "AIR TOTAL-A"
+            ]
+        },
+        {
+            "icaoCode": "KLAS",
+            "iataCode": "LAS",
+            "airportName": "MCCARRAN INTERNATIONAL",
+            "locationInfo": "LAS VEGAS, NV",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791262
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "VITOL AVIATION COMPANY"
+            ],
+            "ipAgents": [
+                "SIGNATURE @ TERMINAL-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KLAS/LAS",
+            "supplierNames": [
+                "VITOL AVIATION COMPANY"
+            ],
+            "ipAgentNames": [
+                "SIGNATURE @ TERMINAL-A"
+            ]
+        },
+        {
+            "icaoCode": "KLAX",
+            "iataCode": "LAX",
+            "airportName": "LOS ANGELES INTERNATIONAL",
+            "locationInfo": "LOS ANGELES, CA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791302,
+                74791345
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "VITOL AVIATION COMPANY"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KLAX/LAX",
+            "supplierNames": [
+                "VITOL AVIATION COMPANY"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KLGA",
+            "iataCode": "LGA",
+            "airportName": "LA GUARDIA",
+            "locationInfo": "NEW YORK, NY",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74788452
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "ALLIED AVIATION SERVICES-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KLGA/LGA",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "ALLIED AVIATION SERVICES-A"
+            ]
+        },
+        {
+            "icaoCode": "KLGB",
+            "iataCode": "LGB",
+            "airportName": "LONG BEACH/DAUGHERTY FIELD",
+            "locationInfo": "LONG BEACH, CA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-03-31",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74789589,
+                74789641,
+                74792814
+            ],
+            "contractCount": 3,
+            "suppliers": [
+                "JETBLUE AIRWAYS",
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgents": [
+                "SIGNATURE FLIGHT SUPPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KLGB/LGB",
+            "supplierNames": [
+                "JETBLUE AIRWAYS",
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgentNames": [
+                "SIGNATURE FLIGHT SUPPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "SPJC",
+            "iataCode": "LIM",
+            "airportName": "JORGE CHAVEZ INTL",
+            "locationInfo": "Peru",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74786731
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "REPSOL MARKETING S.A.C."
+            ],
+            "ipAgents": [
+                "TERPEL AVIACION DEL PERU SRL-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "SPJC/LIM",
+            "supplierNames": [
+                "REPSOL MARKETING S.A.C."
+            ],
+            "ipAgentNames": [
+                "TERPEL AVIACION DEL PERU SRL-A"
+            ]
+        },
+        {
+            "icaoCode": "MRLB",
+            "iataCode": "LIR",
+            "airportName": "DANIEL ODUBER",
+            "locationInfo": "Costa Rica",
+            "inUS": false,
+            "contractStartDate": "2017-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74785660
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "RECOPE OIL CO"
+            ],
+            "ipAgents": [
+                "RECOPE-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MRLB/LIR",
+            "supplierNames": [
+                "RECOPE OIL CO"
+            ],
+            "ipAgentNames": [
+                "RECOPE-A"
+            ]
+        },
+        {
+            "icaoCode": "MDLR",
+            "iataCode": "LRM",
+            "airportName": "LA ROMANA",
+            "locationInfo": "Dominican Republic",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74786792
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "SOL AVIATION SERVICES LTD"
+            ],
+            "ipAgents": [
+                "SOL AVIATION SERVICES LTD-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MDLR/LRM",
+            "supplierNames": [
+                "SOL AVIATION SERVICES LTD"
+            ],
+            "ipAgentNames": [
+                "SOL AVIATION SERVICES LTD-A"
+            ]
+        },
+        {
+            "icaoCode": "MKJS",
+            "iataCode": "MBJ",
+            "airportName": "MONTEGO BAY",
+            "locationInfo": "Jamaica",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74786861
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "GULFSTREAM-PETROLEUM LTD"
+            ],
+            "ipAgents": [
+                "GULFSTREAM-PETROLEUM LTD- A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MKJS/MBJ",
+            "supplierNames": [
+                "GULFSTREAM-PETROLEUM LTD"
+            ],
+            "ipAgentNames": [
+                "GULFSTREAM-PETROLEUM LTD- A"
+            ]
+        },
+        {
+            "icaoCode": "KMCO",
+            "iataCode": "MCO",
+            "airportName": "ORLANDO INTL",
+            "locationInfo": "ORLANDO, FL",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74786939,
+                74791391,
+                74791432
+            ],
+            "contractCount": 3,
+            "suppliers": [
+                "VITOL AVIATION COMPANY",
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "SKYFUEL AVIATION SERVICES-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KMCO/MCO",
+            "supplierNames": [
+                "VITOL AVIATION COMPANY",
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "SKYFUEL AVIATION SERVICES-A"
+            ]
+        },
+        {
+            "icaoCode": "MMMX",
+            "iataCode": "MEX",
+            "airportName": "MEXICO CITY",
+            "locationInfo": "Mexico",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788894,
+                74792575
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "AEROPUERTOS Y SERVICIOS AUXILIARES DBA ASA"
+            ],
+            "ipAgents": [
+                "ASA-WFSMEX (HYDRANT)-A",
+                "ASA-WFSMEX (TRUCK)-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MMMX/MEX",
+            "supplierNames": [
+                "AEROPUERTOS Y SERVICIOS AUXILIARES DBA ASA"
+            ],
+            "ipAgentNames": [
+                "ASA-WFSMEX (HYDRANT)-A",
+                "ASA-WFSMEX (TRUCK)-A"
+            ]
+        },
+        {
+            "icaoCode": "KMSP",
+            "iataCode": "MSP",
+            "airportName": "MINNEAPOLIS-ST PAUL INTL",
+            "locationInfo": "MINNEAPOLIS, MN",
+            "inUS": true,
+            "contractStartDate": "2018-05-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74785806
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AVFUEL CORP"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KMSP/MSP",
+            "supplierNames": [
+                "AVFUEL CORP"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KMSY",
+            "iataCode": "MSY",
+            "airportName": "LOUIS ARMSTRONG NEW ORLEANS INTL",
+            "locationInfo": "NEW ORLEANS, LA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74790797,
+                74790856
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "JETBLUE AIRWAYS",
+                "SHELL OIL PRODUCTS"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KMSY/MSY",
+            "supplierNames": [
+                "JETBLUE AIRWAYS",
+                "SHELL OIL PRODUCTS"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KMVY",
+            "iataCode": "MVY",
+            "airportName": "MARTHAS VINEYARD",
+            "locationInfo": "VINEYARD HAVEN, MA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791597
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AVFUEL CORP"
+            ],
+            "ipAgents": [
+                "MARTHA'S VINEYARD AIRPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KMVY/MVY",
+            "supplierNames": [
+                "AVFUEL CORP"
+            ],
+            "ipAgentNames": [
+                "MARTHA'S VINEYARD AIRPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "MYNN",
+            "iataCode": "NAS",
+            "airportName": "LYNDEN PINDLING INTL",
+            "locationInfo": "Bahamas",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788729
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgents": [
+                "RUBIS-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MYNN/NAS",
+            "supplierNames": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgentNames": [
+                "RUBIS-A"
+            ]
+        },
+        {
+            "icaoCode": "KOAK",
+            "iataCode": "OAK",
+            "airportName": "METROPOLITAN OAKLAND INTL",
+            "locationInfo": "OAKLAND, CA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74792276,
+                74792313
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "SHELL OIL PRODUCTS"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KOAK/OAK",
+            "supplierNames": [
+                "SHELL OIL PRODUCTS"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KONT",
+            "iataCode": "ONT",
+            "airportName": "ONTARIO INTERNATIONAL",
+            "locationInfo": "ONTARIO, CA",
+            "inUS": true,
+            "contractStartDate": "2018-09-04",
+            "contractEndDate": "2019-03-31",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74792184,
+                74792387,
+                74792840,
+                74792964
+            ],
+            "contractCount": 4,
+            "suppliers": [
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KONT/ONT",
+            "supplierNames": [
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KORD",
+            "iataCode": "ORD",
+            "airportName": "CHICAGO OHARE INTERNATIONAL",
+            "locationInfo": "CHICAGO, IL",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74787048
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KORD/ORD",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KORH",
+            "iataCode": "ORH",
+            "airportName": "WORCESTER",
+            "locationInfo": "WORCESTER, MA",
+            "inUS": true,
+            "contractStartDate": "2019-03-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74792772
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "ROSS RECTRIX ORH, LLC-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KORH/ORH",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "ROSS RECTRIX ORH, LLC-A"
+            ]
+        },
+        {
+            "icaoCode": "KPAE",
+            "iataCode": "PAE",
+            "airportName": "SNOHOMISH COUNTY - PAINE FIELD",
+            "locationInfo": "EVERETT, WA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791631
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AVFUEL CORP"
+            ],
+            "ipAgents": [
+                "CASTLE AND COOKE/ MAINT RAMP-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KPAE/PAE",
+            "supplierNames": [
+                "AVFUEL CORP"
+            ],
+            "ipAgentNames": [
+                "CASTLE AND COOKE/ MAINT RAMP-A"
+            ]
+        },
+        {
+            "icaoCode": "MTPP",
+            "iataCode": "PAP",
+            "airportName": "PORT AU PRINCE",
+            "locationInfo": "Haiti",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74787097
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "RUBIS EASTERN CARIBBEAN SRL"
+            ],
+            "ipAgents": [
+                "RUBIS-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MTPP/PAP",
+            "supplierNames": [
+                "RUBIS EASTERN CARIBBEAN SRL"
+            ],
+            "ipAgentNames": [
+                "RUBIS-A"
+            ]
+        },
+        {
+            "icaoCode": "KPBI",
+            "iataCode": "PBI",
+            "airportName": "PALM BEACH INTL",
+            "locationInfo": "WEST PALM BEACH, FL",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74787186
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KPBI/PBI",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KPDX",
+            "iataCode": "PDX",
+            "airportName": "PORTLAND INTL",
+            "locationInfo": "PORTLAND, OR",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-04-01",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74789679,
+                74792861
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KPDX/PDX",
+            "supplierNames": [
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KPHL",
+            "iataCode": "PHL",
+            "airportName": "PHILADELPHIA INTL",
+            "locationInfo": "PHILADELPHIA, PA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791118
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KPHL/PHL",
+            "supplierNames": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KPHX",
+            "iataCode": "PHX",
+            "airportName": "PHOENIX SKY HARBOUR INTL",
+            "locationInfo": "PHOENIX, AZ",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-04-01",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74789728,
+                74792892
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KPHX/PHX",
+            "supplierNames": [
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KPIT",
+            "iataCode": "PIT",
+            "airportName": "PITTSBURGH INTERNATIONAL",
+            "locationInfo": "PITTSBURGH, PA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74789394
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "ASSOCIATED ENERGY GROUP LLC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KPIT/PIT",
+            "supplierNames": [
+                "ASSOCIATED ENERGY GROUP LLC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "MBPV",
+            "iataCode": "PLS",
+            "airportName": "PROVIDENCIALES",
+            "locationInfo": "Turks and Caicos Islands",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788680
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgents": [
+                "RUBIS-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MBPV/PLS",
+            "supplierNames": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgentNames": [
+                "RUBIS-A"
+            ]
+        },
+        {
+            "icaoCode": "MDPP",
+            "iataCode": "POP",
+            "airportName": "PUERTO PLATA",
+            "locationInfo": "Dominican Republic",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74787238
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "ORGANIZACION TERPEL SA"
+            ],
+            "ipAgents": [
+                "TERPEL-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MDPP/POP",
+            "supplierNames": [
+                "ORGANIZACION TERPEL SA"
+            ],
+            "ipAgentNames": [
+                "TERPEL-A"
+            ]
+        },
+        {
+            "icaoCode": "TTPP",
+            "iataCode": "POS",
+            "airportName": "PORT OF SPAIN-PIARCO",
+            "locationInfo": "Trinidad and Tobago",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74787306
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgents": [
+                "NATIONAL PETROLEUM MARKETING-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TTPP/POS",
+            "supplierNames": [
+                "RUBIS WEST INDIES LTD"
+            ],
+            "ipAgentNames": [
+                "NATIONAL PETROLEUM MARKETING-A"
+            ]
+        },
+        {
+            "icaoCode": "TJPS",
+            "iataCode": "PSE",
+            "airportName": "MERCEDITA",
+            "locationInfo": "Puerto Rico",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788839
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "PETRO AIR CORP"
+            ],
+            "ipAgents": [
+                "SOUTH PUERTO RICO AERO SERVICE-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TJPS/PSE",
+            "supplierNames": [
+                "PETRO AIR CORP"
+            ],
+            "ipAgentNames": [
+                "SOUTH PUERTO RICO AERO SERVICE-A"
+            ]
+        },
+        {
+            "icaoCode": "KPSP",
+            "iataCode": "PSP",
+            "airportName": "PALM SPRINGS INTERNATIONAL",
+            "locationInfo": "PALM SPRINGS, CA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74790320,
+                74790369
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "EPIC AVIATION LLC"
+            ],
+            "ipAgents": [
+                "SIGNATURE FLIGHT SUPPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KPSP/PSP",
+            "supplierNames": [
+                "EPIC AVIATION LLC"
+            ],
+            "ipAgentNames": [
+                "SIGNATURE FLIGHT SUPPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "MDPC",
+            "iataCode": "PUJ",
+            "airportName": "PUNTA CANA",
+            "locationInfo": "Dominican Republic",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74787359
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "GULFSTREAM-PETROLEUM LTD"
+            ],
+            "ipAgents": [
+                "GULFSTREAM-PETROLEUM LTD- A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MDPC/PUJ",
+            "supplierNames": [
+                "GULFSTREAM-PETROLEUM LTD"
+            ],
+            "ipAgentNames": [
+                "GULFSTREAM-PETROLEUM LTD- A"
+            ]
+        },
+        {
+            "icaoCode": "KPVD",
+            "iataCode": "PVD",
+            "airportName": "PROVIDENCE",
+            "locationInfo": "PROVIDENCE, RI",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791673
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AVFUEL CORP"
+            ],
+            "ipAgents": [
+                "NORTHSTAR AVIATION-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KPVD/PVD",
+            "supplierNames": [
+                "AVFUEL CORP"
+            ],
+            "ipAgentNames": [
+                "NORTHSTAR AVIATION-A"
+            ]
+        },
+        {
+            "icaoCode": "KPWM",
+            "iataCode": "PWM",
+            "airportName": "PORTLAND INTERNATIONAL JETPORT",
+            "locationInfo": "PORTLAND, ME",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74787452
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "NORTHEAST AIR-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KPWM/PWM",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "NORTHEAST AIR-A"
+            ]
+        },
+        {
+            "icaoCode": "KRDU",
+            "iataCode": "RDU",
+            "airportName": "RALEIGH/DURHAM INTERNATIONAL",
+            "locationInfo": "RALEIGH-DURHAM, NC",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791169
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgents": [
+                "SIGNATURE @ TERMINAL-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KRDU/RDU",
+            "supplierNames": [
+                "TOTAL SPECIALTIES USA INC"
+            ],
+            "ipAgentNames": [
+                "SIGNATURE @ TERMINAL-A"
+            ]
+        },
+        {
+            "icaoCode": "KRIC",
+            "iataCode": "RIC",
+            "airportName": "RICHMOND INTL",
+            "locationInfo": "RICHMOND, VA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74787534
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "AERO INDUSTRIES-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KRIC/RIC",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "AERO INDUSTRIES-A"
+            ]
+        },
+        {
+            "icaoCode": "KRNO",
+            "iataCode": "RNO",
+            "airportName": "RENO/TAHOE INTERNATIONAL",
+            "locationInfo": "RENO, NV",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74787611
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KRNO/RNO",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KROC",
+            "iataCode": "ROC",
+            "airportName": "GREATER ROCHESTER INTL",
+            "locationInfo": "ROCHESTER, NY",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791961,
+                74792652
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "JETBLUE AIRWAYS",
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "USAIRPORT FLIGHT SUPPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KROC/ROC",
+            "supplierNames": [
+                "JETBLUE AIRWAYS",
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "USAIRPORT FLIGHT SUPPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KRSW",
+            "iataCode": "RSW",
+            "airportName": "SOUTHWEST FLORIDA INTL",
+            "locationInfo": "FORT MYERS, FL",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74787699
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KRSW/RSW",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "MSLP",
+            "iataCode": "SAL",
+            "airportName": "EL SALVADOR",
+            "locationInfo": "El Salvador",
+            "inUS": false,
+            "contractStartDate": "2017-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74785605
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "UNO EL SALVADOR SA"
+            ],
+            "ipAgents": [
+                "UNO AVIATION SA-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MSLP/SAL",
+            "supplierNames": [
+                "UNO EL SALVADOR SA"
+            ],
+            "ipAgentNames": [
+                "UNO AVIATION SA-A"
+            ]
+        },
+        {
+            "icaoCode": "KSAN",
+            "iataCode": "SAN",
+            "airportName": "SAN DIEGO INTERNATIONAL",
+            "locationInfo": "SAN DIEGO, CA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-03-31",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74789779,
+                74789834,
+                74792913,
+                74792937
+            ],
+            "contractCount": 4,
+            "suppliers": [
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KSAN/SAN",
+            "supplierNames": [
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KSAV",
+            "iataCode": "SAV",
+            "airportName": "SAVANNAH/HILTON HEAD INTL",
+            "locationInfo": "SAVANNAH, GA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74787789
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "DAL GLOBAL SERVICES-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KSAV/SAV",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "DAL GLOBAL SERVICES-A"
+            ]
+        },
+        {
+            "icaoCode": "MDSD",
+            "iataCode": "SDQ",
+            "airportName": "SANTO DOMINGO",
+            "locationInfo": "Dominican Republic",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74787840
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "ORGANIZACION TERPEL SA"
+            ],
+            "ipAgents": [
+                "TERPEL-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MDSD/SDQ",
+            "supplierNames": [
+                "ORGANIZACION TERPEL SA"
+            ],
+            "ipAgentNames": [
+                "TERPEL-A"
+            ]
+        },
+        {
+            "icaoCode": "KSEA",
+            "iataCode": "SEA",
+            "airportName": "SEATTLE-TACOMA INTL",
+            "locationInfo": "SEATTLE, WA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-03-31",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74792074,
+                74792989
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KSEA/SEA",
+            "supplierNames": [
+                "TESORO REFINING AND MARKETING COMPANY LLC"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KSFO",
+            "iataCode": "SFO",
+            "airportName": "SAN FRANCISCO INTERNATIONAL",
+            "locationInfo": "SAN FRANCISCO, CA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74789877,
+                74789935
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "CHEVRON CORPORATION"
+            ],
+            "ipAgents": [
+                "PRIMEFLIGHT AVIATION SERVICES-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KSFO/SFO",
+            "supplierNames": [
+                "CHEVRON CORPORATION"
+            ],
+            "ipAgentNames": [
+                "PRIMEFLIGHT AVIATION SERVICES-A"
+            ]
+        },
+        {
+            "icaoCode": "KSJC",
+            "iataCode": "SJC",
+            "airportName": "NORMAN Y MINETA SAN JOSE INTL",
+            "locationInfo": "SAN JOSE, CA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74789987,
+                74790032
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "CHEVRON CORPORATION"
+            ],
+            "ipAgents": [
+                "SWISSPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KSJC/SJC",
+            "supplierNames": [
+                "CHEVRON CORPORATION"
+            ],
+            "ipAgentNames": [
+                "SWISSPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "MROC",
+            "iataCode": "SJO",
+            "airportName": "ALAJUELA SANTA MARIA",
+            "locationInfo": "Costa Rica",
+            "inUS": false,
+            "contractStartDate": "2017-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74785714
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "RECOPE OIL CO"
+            ],
+            "ipAgents": [
+                "RECOPE-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MROC/SJO",
+            "supplierNames": [
+                "RECOPE OIL CO"
+            ],
+            "ipAgentNames": [
+                "RECOPE-A"
+            ]
+        },
+        {
+            "icaoCode": "TJSJ",
+            "iataCode": "SJU",
+            "airportName": "LUIS MUNOZ MARIN INTERNATIONAL",
+            "locationInfo": "Puerto Rico",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74789490,
+                74792598
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "AIR TOTAL INTERNATIONAL",
+                "PUMA ENERGY (AVIATION) LLC"
+            ],
+            "ipAgents": [
+                "AIR TOTAL-A",
+                "PUMA ENERGY CARIBE LLC-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TJSJ/SJU",
+            "supplierNames": [
+                "AIR TOTAL INTERNATIONAL",
+                "PUMA ENERGY (AVIATION) LLC"
+            ],
+            "ipAgentNames": [
+                "AIR TOTAL-A",
+                "PUMA ENERGY CARIBE LLC-A"
+            ]
+        },
+        {
+            "icaoCode": "KSLC",
+            "iataCode": "SLC",
+            "airportName": "SALT LAKE CITY INTERNATIONAL",
+            "locationInfo": "SALT LAKE CITY, UT",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74791715
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AVFUEL CORP"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KSLC/SLC",
+            "supplierNames": [
+                "AVFUEL CORP"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "KSMF",
+            "iataCode": "SMF",
+            "airportName": "SACRAMENTO INTERNATIONAL",
+            "locationInfo": "SACRAMENTO-OUTSIDE CITY LIMITS, CA",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74790079,
+                74790122
+            ],
+            "contractCount": 2,
+            "suppliers": [
+                "CHEVRON CORPORATION"
+            ],
+            "ipAgents": [
+                "ALLIED AVIATION SERVICES-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KSMF/SMF",
+            "supplierNames": [
+                "CHEVRON CORPORATION"
+            ],
+            "ipAgentNames": [
+                "ALLIED AVIATION SERVICES-A"
+            ]
+        },
+        {
+            "icaoCode": "MUSC",
+            "iataCode": "SNU",
+            "airportName": "ABEL SANTAMARIA",
+            "locationInfo": "Cuba",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74787898
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "ECASA"
+            ],
+            "ipAgents": [
+                "ECASA-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MUSC/SNU",
+            "supplierNames": [
+                "ECASA"
+            ],
+            "ipAgentNames": [
+                "ECASA-A"
+            ]
+        },
+        {
+            "icaoCode": "KSRQ",
+            "iataCode": "SRQ",
+            "airportName": "SARASOTA-BRADENTON",
+            "locationInfo": "SARASOTA, FL",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74787983
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KSRQ/SRQ",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "MDST",
+            "iataCode": "STI",
+            "airportName": "SANTIAGO-CIBAO",
+            "locationInfo": "Dominican Republic",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788610
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "GULFSTREAM-PETROLEUM LTD"
+            ],
+            "ipAgents": [
+                "GULFSTREAM-PETROLEUM LTD- A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "MDST/STI",
+            "supplierNames": [
+                "GULFSTREAM-PETROLEUM LTD"
+            ],
+            "ipAgentNames": [
+                "GULFSTREAM-PETROLEUM LTD- A"
+            ]
+        },
+        {
+            "icaoCode": "TIST",
+            "iataCode": "STT",
+            "airportName": "ST.THOMAS-KING",
+            "locationInfo": "Virgin Islands, U.S.",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74789540
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AIR TOTAL INTERNATIONAL"
+            ],
+            "ipAgents": [
+                "AIR TOTAL-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TIST/STT",
+            "supplierNames": [
+                "AIR TOTAL INTERNATIONAL"
+            ],
+            "ipAgentNames": [
+                "AIR TOTAL-A"
+            ]
+        },
+        {
+            "icaoCode": "TISX",
+            "iataCode": "STX",
+            "airportName": "HENRY E ROHLSEN",
+            "locationInfo": "Virgin Islands, U.S.",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74790652
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "PUMA ENERGY (AVIATION) LLC"
+            ],
+            "ipAgents": [
+                "BOHLKE INTL. AIRWAYS-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TISX/STX",
+            "supplierNames": [
+                "PUMA ENERGY (AVIATION) LLC"
+            ],
+            "ipAgentNames": [
+                "BOHLKE INTL. AIRWAYS-A"
+            ]
+        },
+        {
+            "icaoCode": "KSWF",
+            "iataCode": "SWF",
+            "airportName": "STEWART INTERNATIONAL",
+            "locationInfo": "NEWBURGH, NY",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74788080
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "ATLANTIC AVIATION-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KSWF/SWF",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "ATLANTIC AVIATION-A"
+            ]
+        },
+        {
+            "icaoCode": "TNCM",
+            "iataCode": "SXM",
+            "airportName": "ST MAARTEN",
+            "locationInfo": "Sint Maarten (Dutch part)",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788126
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "GULFSTREAM-PETROLEUM LTD"
+            ],
+            "ipAgents": [
+                "SOL AVIATION SERVICES LTD-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TNCM/SXM",
+            "supplierNames": [
+                "GULFSTREAM-PETROLEUM LTD"
+            ],
+            "ipAgentNames": [
+                "SOL AVIATION SERVICES LTD-A"
+            ]
+        },
+        {
+            "icaoCode": "KSYR",
+            "iataCode": "SYR",
+            "airportName": "SYRACUSE HANCOCK INTERNATIONAL",
+            "locationInfo": "SYRACUSE, NY",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74788219
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgents": [
+                "SIGNATURE FLIGHT SUPPORT-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KSYR/SYR",
+            "supplierNames": [
+                "WORLD FUEL SERVICES INC"
+            ],
+            "ipAgentNames": [
+                "SIGNATURE FLIGHT SUPPORT-A"
+            ]
+        },
+        {
+            "icaoCode": "KTPA",
+            "iataCode": "TPA",
+            "airportName": "TAMPA INTERNATIONAL",
+            "locationInfo": "TAMPA, FL",
+            "inUS": true,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2019-06-30",
+            "stateOrCountryFilter": "US Locations",
+            "referenceNumbers": [
+                74790161,
+                74790215,
+                74790270
+            ],
+            "contractCount": 3,
+            "suppliers": [
+                "CHEVRON CORPORATION",
+                "JETBLUE AIRWAYS"
+            ],
+            "ipAgents": [
+                "ASIG-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "KTPA/TPA",
+            "supplierNames": [
+                "CHEVRON CORPORATION",
+                "JETBLUE AIRWAYS"
+            ],
+            "ipAgentNames": [
+                "ASIG-A"
+            ]
+        },
+        {
+            "icaoCode": "TLPL",
+            "iataCode": "UVF",
+            "airportName": "HEWANORRA",
+            "locationInfo": "Saint Lucia",
+            "inUS": false,
+            "contractStartDate": "2018-07-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74788276
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "SOL AVIATION SERVICES LTD"
+            ],
+            "ipAgents": [
+                "SOL AVIATION SERVICES LTD-A"
+            ],
+            "customers": [
+                {
+                    "value": 55206,
+                    "text": "JETBLUE AIRWAYS CORPORATION"
+                }
+            ],
+            "locationCodes": "TLPL/UVF",
+            "supplierNames": [
+                "SOL AVIATION SERVICES LTD"
+            ],
+            "ipAgentNames": [
+                "SOL AVIATION SERVICES LTD-A"
+            ]
+        }
+    ],
+    "query": "customerNumbers=[55206] & contractDate=ANY",
+    "errors": null,
+    "pagingInfo": {
+        "totalPageCount": 1,
+        "pageSize": -1,
+        "currPageIndex": 0,
+        "currPageStartItemIndex": 0,
+        "currPageEndItemIndex": 150
     },
-    {
-      "id": 2,
-      "title": "Post 2"
+    "appResponseCode": "FMS-OK"
+}
+2019-05-17 12:23:56,838 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.wfs.fms.configuration.SpringCucumberConfiguration]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-05-17 12:23:56,847 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-05-17 12:23:56,847 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@539570b8, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6a2d0a19, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@5702e6f3, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5687e92d, org.springframework.test.context.support.DirtiesContextTestExecutionListener@2eef43f5, org.springframework.test.context.transaction.TransactionalTestExecutionListener@2c10f9f3, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@6c65a7fc, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@5c2f5dc, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@5166fe7a, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@7a925ac4, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3b09582d, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@29f72685]
+2019-05-17 12:23:56,853 [main] INFO  c.w.f.c.SpringCucumberConfiguration - ------------- TEST CONTEXT INITIALIZED -------------
+http://localhost:61631/fms/v1/locations?customerNumbers=124567&contractDate=ANY
+Request method:	GET
+Request URI:	http://localhost:61631/fms/v1/locations?customerNumbers=124567&contractDate=ANY
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=application/json, application/javascript, text/javascript, text/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	http://localhost:61631/fms/v1/locations?customerNumbers=124567&contractDate=ANY
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=application/json, application/javascript, text/javascript, text/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+2019-05-17 12:23:56,897 [http-nio-auto-1-exec-2] DEBUG  org.hibernate.SQL - select contracthe0_.tender_line_id as tender_l1_0_, contracthe0_.aircraft_category as aircraft2_0_, contracthe0_.billing_currency as billing_3_0_, contracthe0_.billing_uom as billing_4_0_, contracthe0_.contract_end_date as contract5_0_, contracthe0_.contract_start_date as contract6_0_, contracthe0_.contract_type as contract7_0_, contracthe0_.customer_name as customer8_0_, contracthe0_.customer_number as customer9_0_, contracthe0_.dom_intl as dom_int10_0_, contracthe0_.exchange_rate_apply_to as exchang11_0_, contracthe0_.exchange_rate_avg_type as exchang12_0_, contracthe0_.exchange_rate_type as exchang13_0_, contracthe0_.flight_type as flight_14_0_, contracthe0_.header_id as header_15_0_, contracthe0_.item as item16_0_, contracthe0_.location_country_name as locatio17_0_, contracthe0_.location_iata_code as locatio18_0_, contracthe0_.location_icao_code as locatio19_0_, contracthe0_.location_id as locatio20_0_, contracthe0_.location_name as locatio21_0_, contracthe0_.location_state as locatio22_0_, contracthe0_.location_town_city as locatio23_0_, contracthe0_.negotiated_currency as negotia24_0_, contracthe0_.negotiated_uom as negotia25_0_, contracthe0_.ofa_num as ofa_num26_0_, contracthe0_.sales_diff as sales_d27_0_, contracthe0_.tender_status as tender_28_0_, contracthe0_.uom_conv_apply_to as uom_con29_0_, contracthe0_.uom_conv_rate_diff as uom_con30_0_, contracthe0_.uom_conv_rate_index as uom_con31_0_, contracthe0_.uom_conv_rate_qty as uom_con32_0_ from contract_header contracthe0_ where contracthe0_.customer_number in (?) order by contracthe0_.location_iata_code ASC, contracthe0_.customer_name ASC, contracthe0_.contract_start_date ASC
+2019-05-17 12:23:56,898 [http-nio-auto-1-exec-2] TRACE  o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [BIGINT] - [124567]
+2019-05-17 12:23:56,901 [http-nio-auto-1-exec-2] DEBUG  org.hibernate.SQL - select priceheade0_.tender_line_id as tender_l1_1_0_, priceheade0_.all_inclusive_flag as all_incl2_1_0_, priceheade0_.billing_cycle as billing_3_1_0_, priceheade0_.cust_site_name as cust_sit4_1_0_, priceheade0_.delivery_method as delivery5_1_0_, priceheade0_.delivery_point as delivery6_1_0_, priceheade0_.fbo as fbo7_1_0_, priceheade0_.invoice_option as invoice_8_1_0_, priceheade0_.isbsa_flag as isbsa_fl9_1_0_, priceheade0_.margin as margin10_1_0_, priceheade0_.price_basis as price_b11_1_0_, priceheade0_.price_cycle as price_c12_1_0_, priceheade0_.price_effective_date as price_e13_1_0_, priceheade0_.price_expiration_date as price_e14_1_0_, priceheade0_.reference_number as referen15_1_0_, priceheade0_.supplier as supplie16_1_0_, priceheade0_.tender_header_id as tender_17_1_0_ from price_header priceheade0_ where priceheade0_.tender_line_id=?
+2019-05-17 12:23:56,901 [http-nio-auto-1-exec-2] TRACE  o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [BIGINT] - [861019]
+2019-05-17 12:23:56,902 [http-nio-auto-1-exec-2] DEBUG  org.hibernate.SQL - select priceheade0_.tender_line_id as tender_l1_1_0_, priceheade0_.all_inclusive_flag as all_incl2_1_0_, priceheade0_.billing_cycle as billing_3_1_0_, priceheade0_.cust_site_name as cust_sit4_1_0_, priceheade0_.delivery_method as delivery5_1_0_, priceheade0_.delivery_point as delivery6_1_0_, priceheade0_.fbo as fbo7_1_0_, priceheade0_.invoice_option as invoice_8_1_0_, priceheade0_.isbsa_flag as isbsa_fl9_1_0_, priceheade0_.margin as margin10_1_0_, priceheade0_.price_basis as price_b11_1_0_, priceheade0_.price_cycle as price_c12_1_0_, priceheade0_.price_effective_date as price_e13_1_0_, priceheade0_.price_expiration_date as price_e14_1_0_, priceheade0_.reference_number as referen15_1_0_, priceheade0_.supplier as supplie16_1_0_, priceheade0_.tender_header_id as tender_17_1_0_ from price_header priceheade0_ where priceheade0_.tender_line_id=?
+2019-05-17 12:23:56,903 [http-nio-auto-1-exec-2] TRACE  o.h.type.descriptor.sql.BasicBinder - binding parameter [1] as [BIGINT] - [861121]
+HTTP/1.1 200 
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Fri, 17 May 2019 16:23:56 GMT
+
+{
+    "result": [
+        {
+            "icaoCode": "MMUN",
+            "iataCode": "CUN",
+            "airportName": "CANCUN",
+            "locationInfo": "Mexico",
+            "inUS": false,
+            "contractStartDate": "2019-01-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74783829
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AEROPUERTOS Y SERVICIOS AUXILIARES DBA ASA"
+            ],
+            "ipAgents": [
+                "ASA-WFSMEX (TRUCK)-A"
+            ],
+            "customers": [
+                {
+                    "value": 124567,
+                    "text": "JETBLUE AIRWAYS CORPORATION-TENDER ONLY"
+                }
+            ],
+            "locationCodes": "MMUN/CUN",
+            "supplierNames": [
+                "AEROPUERTOS Y SERVICIOS AUXILIARES DBA ASA"
+            ],
+            "ipAgentNames": [
+                "ASA-WFSMEX (TRUCK)-A"
+            ]
+        },
+        {
+            "icaoCode": "MMMX",
+            "iataCode": "MEX",
+            "airportName": "MEXICO CITY",
+            "locationInfo": "Mexico",
+            "inUS": false,
+            "contractStartDate": "2019-01-01",
+            "contractEndDate": "2020-06-30",
+            "stateOrCountryFilter": "Non-US Locations",
+            "referenceNumbers": [
+                74783848
+            ],
+            "contractCount": 1,
+            "suppliers": [
+                "AEROPUERTOS Y SERVICIOS AUXILIARES DBA ASA"
+            ],
+            "ipAgents": [
+                "ASA-WFSMEX (TRUCK)-A"
+            ],
+            "customers": [
+                {
+                    "value": 124567,
+                    "text": "JETBLUE AIRWAYS CORPORATION-TENDER ONLY"
+                }
+            ],
+            "locationCodes": "MMMX/MEX",
+            "supplierNames": [
+                "AEROPUERTOS Y SERVICIOS AUXILIARES DBA ASA"
+            ],
+            "ipAgentNames": [
+                "ASA-WFSMEX (TRUCK)-A"
+            ]
+        }
+    ],
+    "query": "customerNumbers=[124567] & contractDate=ANY",
+    "errors": null,
+    "pagingInfo": {
+        "totalPageCount": 1,
+        "pageSize": -1,
+        "currPageIndex": 0,
+        "currPageStartItemIndex": 0,
+        "currPageEndItemIndex": 1
     },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "appResponseCode": "FMS-OK"
 }
